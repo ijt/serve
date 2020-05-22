@@ -5,7 +5,7 @@ It has no configuration, so you can start using it with no hassle.
 
 ## Getting started
 1. Install Go
-    * On Ubuntu `apt install go`
+    * On Ubuntu `apt install golang`
     * On Mac `brew install go`
 2. `go get github.com/ijt/serve`
 3. `serve`
